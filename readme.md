@@ -63,6 +63,12 @@ A ideia é evitar reconstruir a mesma estrutura a cada novo projeto e manter uma
     └── setup.sh
 ```
 
+## Artigo
+
+Para uma explicação mais detalhada sobre a motivação, arquitetura e decisões tomadas na construção do StreamlitBase, consulte o artigo:
+
+[Construindo uma estrutura base reutilizável para aplicações Streamlit](https://medium.com/@josueods.dev/streamlitbase-e7d496c72b28)
+
 ### Contracts
 
 O diretório `contracts` concentra os contratos utilizados pela aplicação.
